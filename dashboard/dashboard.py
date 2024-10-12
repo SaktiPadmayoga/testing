@@ -99,7 +99,8 @@ def create_rfm_segment_df(all_df):
     return rfm_segment_df
 
 # import csv
-all_df = pd.read_csv("Dashboard/all_data.csv")
+all_df = pd.read_csv("/Users/saktiyoga/Development/test/python_data_analysis_learn/Dashboard/all_data.csv")
+
 
 # Create sidebar and filtering
 datetime_columns = ["order_purchase_timestamp", "order_delivered_carrier_date"]
