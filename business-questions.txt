@@ -1,0 +1,7 @@
+- Apa saja kategori produk yang paling laku dan paling tidak laku?
+- Bagaimana distribusi pesanan di berbagai negara bagian (state)?
+- Bagaimana pengaruh durasi pengiriman terhadap peringkat dari pelanggan (score_review)?
+- Kapan terakhir pelanggan melakukan transaksi? (RFM ANALYSIS)
+- Seberapa sering seorang pelanggan melakukan pembelian dalam beberapa bulan terakhir? (RFM ANALYSIS)
+- Berapa banyak uang yang dihabiskan pelanggan dalam beberapa bulan terakhir? (RFM ANALYSIS)
+- Bagaimana pelanggan dapat disegmentasikan berdasarkan kebiasaan pembelian mereka? (RFM ANALYSIS)
